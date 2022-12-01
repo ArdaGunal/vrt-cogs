@@ -111,4 +111,7 @@ defaults = [
     {"url": "https://imgur.com/t/pictures/ASyUIxI", "answers": ["bira"]},
     {"url": "hhttps://imgur.com/t/pictures/6kkw4yR", "answers": ["gitar"]},
     {"url": "hhttps://imgur.com/gallery/8c7SC", "answers": ["piyano"]},
+    {"url": "https://imgur.com/t/honey/q1y2rRT", "answers": ["bal"]},
+    {"url": "https://imgur.com/gallery/xrdQgHj", "answers": ["bilardo topu","bilardo topları"]},
+    {"url": "https://imgur.com/t/violence/lKvmu", "answers": ["keman"]},
 ]
