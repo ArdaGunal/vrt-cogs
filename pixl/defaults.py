@@ -18,7 +18,7 @@ defaults = [
     {"url": "https://www.emergenthealth.org/wp-content/uploads/2020/03/082019_EHP_MRM1499.jpg", "answers": ["ambulans"]},
     {"url": "https://electrek.co/wp-content/uploads/sites/3/2022/11/Lion-electric-US-factory-1.jpeg", "answers": ["okul otobüsü", "servis"]},
     {"url": "https://m.media-amazon.com/images/I/71ARSWzCZBL.jpg", "answers": ["spatula"]},
-    {"url": "https://wherethewindsblow.com/wp-content/uploads/2015/07/JUMBO-Six-sided-white-dice.jpg", "answers": ["zar"."zarlar"]},
+    {"url": "https://wherethewindsblow.com/wp-content/uploads/2015/07/JUMBO-Six-sided-white-dice.jpg", "answers": ["zar","zarlar"]},
     {"url": "https://assets.bonappetit.com/photos/58dbf6c8a6614f6f50816994/4:3/w_2591,h_1943,c_limit/20170323%20MOB6231_FINAL_crop.jpg", "answers": ["çilek"]},
     {"url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg", "answers": ["inek"]},
     {"url": "https://cb2.scene7.com/is/image/CB2/KMPolarTableLampSHS21/$web_pdp_main_carousel_xs$/210210135642/polar-table-lamp.jpg", "answers": ["lamba"]},
