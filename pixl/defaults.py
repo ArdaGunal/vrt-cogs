@@ -75,7 +75,7 @@ defaults = [
     {"url": "https://cdn.britannica.com/08/100608-050-684264CB/Saguaro-cactus-Arizona.jpg", "answers": ["kaktüs"]},
     {"url": "https://www.gardendesign.com/pictures/images/675x529Max/site_3/helianthus-yellow-flower-pixabay_11863.jpg", "answers": ["ay çiçeği"]},
     {"url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg", "answers": ["lale"]},
-    {"url": "https://cdn.mos.cms.futurecdn.net/snbrHBRigvvzjxNGuUtcck.jpg", "answers": ["ay""]},
+    {"url": "https://cdn.mos.cms.futurecdn.net/snbrHBRigvvzjxNGuUtcck.jpg", "answers": ["ay"]},
     {"url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg", "answers": ["dünya"]},
     {"url": "https://i.natgeofe.com/k/7c7e4173-5ad3-4ef7-8252-354de21430db/jupiter_3x4.jpg", "answers": ["jupiter"]},
     {"url": "https://solarsystem.nasa.gov/system/stellar_items/image_files/38_saturn_1600x900.jpg", "answers": ["satürn"]},
