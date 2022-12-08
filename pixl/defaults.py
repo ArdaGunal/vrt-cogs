@@ -87,7 +87,7 @@ defaults = [
     {"url": "https://www.kbb.com/wp-content/uploads/2021/07/2021-gmc-sierra-at4-hd-front-right.jpg", "answers": ["kamyon","jeep","jip"]},
     {"url": "https://i.natgeofe.com/n/2f169ccb-e943-4772-8bd1-c92e79db64ab/gsfc_20171208_archive_e000922_orig_square.jpg", "answers": ["güneş"]},
     {"url": "https://cdn.britannica.com/05/94905-050-1830515C/Whirlpool-Galaxy-NGC-5195-Sc.jpg", "answers": ["galaksi"]},
-    {"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/NGC_4414_%28NASA-med%29.jpg/1200px-NGC_4414_%28NASA-med%29.jpg", "answers": ["galasi","samanyolu"]},
+    {"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/NGC_4414_%28NASA-med%29.jpg/1200px-NGC_4414_%28NASA-med%29.jpg", "answers": ["galaksi","samanyolu"]},
     {"url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Calculator.kodabar.jpg", "answers": ["hesap makinesi"]},
     {"url": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/24832-istock-698876630-9699ecd2ca21cc77daaab9567e646205.jpg", "answers": ["kalem", "kalemler","kurşun kalem"]},
     {"url": "https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png", "answers": ["discord"]},
@@ -114,4 +114,11 @@ defaults = [
     {"url": "https://imgur.com/t/honey/q1y2rRT", "answers": ["bal"]},
     {"url": "https://imgur.com/gallery/xrdQgHj", "answers": ["bilardo topu","bilardo topları"]},
     {"url": "https://imgur.com/t/violence/lKvmu", "answers": ["keman"]},
+    {"url": "https://imgur.com/gallery/E5H7v", "answers": ["et"]},
+    {"url": "https://imgur.com/gallery/qyGHL7z", "answers": ["çilek"]},
+    {"url": "https://imgur.com/gallery/p3qmT", "answers": ["döner"]},
+    {"url": "https://imgur.com/gallery/asWrZTD", "answers": ["dondurma"]},
+    
+    
+    
 ]
