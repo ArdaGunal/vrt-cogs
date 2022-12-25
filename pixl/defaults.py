@@ -47,7 +47,7 @@ defaults = [
     {"url": "https://images.immediate.co.uk/production/volatile/sites/30/2017/01/avocado-45bccf2-scaled.jpg", "answers": ["avokado"]},
     {"url": "https://assets.bonappetit.com/photos/60ef61f34d6cfb72ea6baeec/master/pass/Sweet-Sour-Cherries.jpg", "answers": ["kiraz", "kirazlar"]},
     {"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Giraffe_Mikumi_National_Park.jpg/1200px-Giraffe_Mikumi_National_Park.jpg", "answers": ["zürafa"]},
-    {"url": "https://www.humanesociety.org/sites/default/files/styles/1240x698/public/2022-03/hippo-560952.jpg", "answers": ["hippopotamus"]},
+    {"url": "https://www.humanesociety.org/sites/default/files/styles/1240x698/public/2022-03/hippo-560952.jpg", "answers": ["hippopotamus","su aygırı"]},
     {"url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg", "answers": ["köpek"]},
     {"url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220805-border-collie-play-mn-1100-82d2f1.jpg", "answers": ["köpek"]},
     {"url": "https://static01.nyt.com/images/2022/05/10/science/28DOGS-BEHAVIOR1/28DOGS-BEHAVIOR1-mobileMasterAt3x.jpg", "answers": ["köpek"]},
