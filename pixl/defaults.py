@@ -1,6 +1,7 @@
 defaults = [
     {"url": "https://i.imgur.com/e4jKRa4.png", "answers": ["su samuru,susamuru"]},
     {"url": "https://i.imgur.com/P6sPJzl.jpeg", "answers": ["köpek"]},
+    {"url": "https://i.imgur.com/SLfTNnq.jpeg", "answers": ["dünya"]},
     {"url": "https://i.imgur.com/o2kotzD.jpg", "answers": ["kedi"]},
     {"url": "https://i.imgur.com/mx66SBD.jpeg", "answers": ["portakal"]},
     {"url": "https://i.imgur.com/V8SS4Yk.jpeg", "answers": ["muz", "muzlar"]},
